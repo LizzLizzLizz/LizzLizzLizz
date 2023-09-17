@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Izzudin Alqossam**.\
 Saya seorang **Mahasiswa** di [Universitas Sultan Ageng Tirtayasa](https://untirta.ac.id/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/izzudin-alqossam-a07062284)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/izzudin-alqossam-a07062284/)ku ya.
  
 <p align="left">
 <a href="https://github.com/LizzLizzLizz">
